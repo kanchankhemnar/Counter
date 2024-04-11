@@ -1,1 +1,1 @@
-This is a number counter project made by using react and redux toolkit.
+This project is a number counter application developed using React and Redux Toolkit
